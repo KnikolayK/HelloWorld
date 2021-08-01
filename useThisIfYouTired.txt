@@ -1,1 +1,2 @@
 Win + R  shutdown -s -f -t 10
+Win + R  shutdown -s -f -t 10
